@@ -1,1 +1,6 @@
-
+pyspark
+kafka-python
+networkx
+scikit-learn
+pandas
+numpy
